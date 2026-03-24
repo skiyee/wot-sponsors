@@ -1,5 +1,16 @@
 {
     "data": [
+        {
+            "tier": "Platinum",
+            "size": "large",
+            "items": [
+                {
+                    "name": "AI原生架构 Java全栈框架",
+                    "img": "https://sponsor.wot-ui.cn/assets/sponsor/ruoyi-uniapp.png",
+                    "url": "https://ruoyi.plus"
+                }
+            ]
+        }
     ],
     "demo": [
         {
